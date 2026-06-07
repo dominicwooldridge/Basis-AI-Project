@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+mangum
+python-dotenv
+langchain
+langchain-aws
+langchain-community
+boto3
+pydantic
+geopandas
+shapely
+numpy
+numpy-financial
+requests
+duckduckgo-search
